@@ -1,0 +1,27 @@
+#popular{
+  .container{
+    width: 1140px;
+ margin: 0 auto;
+    .popular{
+      padding: 40px 0;
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+
+      h1{
+        font-size: 15px;
+        font-weight: normal;
+        width: 200px;
+
+      }
+      .block{
+        padding: 10px 10px;
+        margin: 7px;
+      }
+    }
+
+  }
+}
+
+
